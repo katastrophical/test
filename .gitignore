@@ -1,3 +1,3 @@
 *.log
 node_modules/
-historia/sub_historias.listado1.vue
+historia/sub_historias/listado1.vue
